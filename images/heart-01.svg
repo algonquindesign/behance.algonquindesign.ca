@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
-	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
-	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
-	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
-]>
-<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 x="0px" y="0px" viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve">
-<path id="favorite-2-icon" fill="#3B3A3C" d="M19.5,3.6c-2-4-7.9-3.7-9.5-0.2C8.5-0.1,2.5-0.4,0.5,3.6c-2.3,4.7,3.1,9.3,9.5,15.7
-	C16.4,12.9,21.8,8.3,19.5,3.6z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" enable-background="new 0 0 256 256"><style type="text/css">.st0{fill:#3B3A3C;}</style><path id="favorite-2-icon" class="st0" d="M249.6 46.1c-25.6-51.2-101.1-47.4-121.6-2.6-19.2-44.8-96-48.6-121.6 2.6-29.4 60.1 39.7 119 121.6 200.9 81.9-81.9 151-140.8 121.6-200.9z"/></svg>
