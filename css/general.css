@@ -8,11 +8,11 @@
 @viewport {width: device-width; scale: 1;}
 
 html {
-	-moz-text-size-adjust: 100%;	
-	-ms-text-size-adjust: 100%;	
-	-webkit-text-size-adjust: 100%;	
-	-o-text-size-adjust: 100%;	
-	text-size-adjust: 100%;	
+	-moz-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+	-o-text-size-adjust: 100%;
+	text-size-adjust: 100%;
 }
 
 *{margin:0;}
@@ -78,15 +78,15 @@ header {
 
 
 @media only screen and (min-width: 45em) {
-	
+
 	html, body {
 		padding: 0 0 1.95em 0;
 	}
-	
+
 	.contest-page {
 		padding: 0 0 4em 0;
 	}
-	
+
 	header {
 		position: fixed;
 		left: 0;
@@ -96,7 +96,7 @@ header {
 		width: 21rem;
 		z-index: 8000;
 	}
-	
+
 	.schedule-part {
 		position: relative;
 		margin: 0;
@@ -111,39 +111,37 @@ header {
 	.schedule-part>.cinco{
 		margin: 0rem auto 0rem;
 	}
-		
+
 	.icon-top {
 		float: left;
 		height: 4rem;
 		margin: .75em .75em 0 0;
 	}
-	
+
 }
 
 @media only screen and (min-width: 45em) and (min-height: 650px) {
-	
-	
+
 	.schedule-part {
 		padding: 1em 0 1em 1.25em;
 	}
-	
+
 	.title {
 		margin-bottom: 1rem;
 	}
-	
+
 }
 
 @media only screen and (min-width: 45em) and (min-height: 1000px) {
-	
-	
+
 	.schedule-part {
 		padding: 1.25em 0 1em 1.5em;
 	}
-	
+
 	.title {
 		margin-bottom: 1.3rem;
 	}
-	
+
 }
 
 .main {
@@ -279,14 +277,14 @@ dt>a:focus:after {
 
 .indent>dt{
 	padding-top: 0.1em;
-	padding-bottom: 0.5em; 
+	padding-bottom: 0.5em;
 	border-left: 5px solid #00B8E6;
 	padding-left: 25px;
 	margin-top: 1rem;
 }
 
 .indent>dd{
-	padding-bottom: 0.15em; 
+	padding-bottom: 0.15em;
 	border-left: 5px solid #00B8E6;
 	padding-left: 25px;
 	margin-bottom: 2rem;
@@ -359,7 +357,7 @@ dt>a:focus:after {
 	  margin-top: 0;
 	  font-size: 5.05em;
 	}
-	
+
 	.big-dos {
 		font-size: 3.36em;
 	}
@@ -367,23 +365,23 @@ dt>a:focus:after {
 }
 
 @media only screen and (min-width: 45em) {
-	
+
 	section {
 		max-width: 40rem;
 		margin: 4em 5% 0 24em;
 	}
-	
+
 	.get-ticket {
 		top: 4em;
 		max-width: 14.25em;
 		padding: 0.3em;
 		right: 0rem;
 	}
-	
+
 	.contest {
 		top: 8.5em;
 	}
-	
+
 	#sponsors {
 		z-index: 1000;
 		position: absolute;
@@ -395,7 +393,7 @@ dt>a:focus:after {
 }
 
 @media only screen and (min-width: 60em) {
-	
+
 	.date-time {
 		display: block;
 		width: 12em;
@@ -403,7 +401,7 @@ dt>a:focus:after {
 		right: 3.5em;
 		bottom: 6em;
 	}
-	
+
 }
 
 footer, .resp-footer {
@@ -484,7 +482,7 @@ footer, .resp-footer {
 	html, body {
 		font-size: 1em;
 	}
-	
+
 	.contest-page {
 		font-size: 1em;
 	}
